@@ -7,7 +7,7 @@
 
 # 🔗 배포
 
-[https://angry-albattani-8e8937.netlify.app](https://angry-albattani-8e8937.netlify.app/)
+[에너지밸런스 과제 배포 링크](https://angry-albattani-8e8937.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a580b2b0-c471-4339-9128-f18b39de1a34/deploy-status)](https://app.netlify.com/sites/angry-albattani-8e8937/deploys)
 
 # ⚙️ 설치 및 시작하는 법
