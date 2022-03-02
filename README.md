@@ -26,7 +26,7 @@ $ npm run start
 
 ## 필터링 기능구현 ( 가공방식 & 재료 )
 
-gif
+![ateam](https://user-images.githubusercontent.com/40172373/156337442-ba7accaf-b206-4e54-b133-66b9e9c8b212.gif)
 
 필터링 조건이 가공방식, 재료, 상담중 여부 3가지가 있다.
 재료가 구리, 알류미늄이 선택되었다면 구리 or 알류미늄이고 가공방식에서 밀링, 재료는 구리가 선택되었다면 밀링 and 구리 이다.
